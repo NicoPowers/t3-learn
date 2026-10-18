@@ -1,0 +1,3 @@
+node_modules/
+# Upstream reference clone. Not tracked, because the upstream repository has no license file.
+reference/
